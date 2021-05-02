@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cea0a8dffc0c494f3df248d8d26394d7",
+    "revision": "c63d54fb1738ebb97347d0729e54b30b",
     "url": "./index.html"
   },
   {
-    "revision": "067753d088ed90ce2710",
-    "url": "./static/css/main.92ac8b50.chunk.css"
+    "revision": "4cd5c89a9ae84b38e5bf",
+    "url": "./static/css/main.066d08b3.chunk.css"
   },
   {
     "revision": "d29a435776f28ee678f2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.7f56d4d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "067753d088ed90ce2710",
-    "url": "./static/js/main.009c8147.chunk.js"
+    "revision": "4cd5c89a9ae84b38e5bf",
+    "url": "./static/js/main.6e43977f.chunk.js"
   },
   {
     "revision": "2cdd0f916e301b231cb9",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c21812fa775a0c43a84dd4090d63452a",
     "url": "./static/media/react-original-wordmark.c21812fa.svg"
+  },
+  {
+    "revision": "2c0b7c73aaff2d76adcbdf50b2f56321",
+    "url": "./static/media/twitter.2c0b7c73.svg"
   },
   {
     "revision": "8b8aaf38f918cfe1f595ab39349a2c92",
